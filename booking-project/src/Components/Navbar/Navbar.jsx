@@ -87,7 +87,7 @@ function Navbar() {
       display: block;
       position: absolute;
       width: 100%;
-      height: 50vh;
+      height: 100vh;
       top: 0;
       left: 0;
       background: white;
